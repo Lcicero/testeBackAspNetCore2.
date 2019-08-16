@@ -1,0 +1,9 @@
+C:\Users\CICERO-PC\Desktop\teste ewave\testeback\TesteBack.Model\bin\Debug\netstandard2.0\TesteBack.Model.deps.json
+C:\Users\CICERO-PC\Desktop\teste ewave\testeback\TesteBack.Model\bin\Debug\netstandard2.0\TesteBack.Model.dll
+C:\Users\CICERO-PC\Desktop\teste ewave\testeback\TesteBack.Model\bin\Debug\netstandard2.0\TesteBack.Model.pdb
+C:\Users\CICERO-PC\Desktop\teste ewave\testeback\TesteBack.Model\obj\Debug\netstandard2.0\TesteBack.Model.csproj.CoreCompileInputs.cache
+C:\Users\CICERO-PC\Desktop\teste ewave\testeback\TesteBack.Model\obj\Debug\netstandard2.0\TesteBack.Model.AssemblyInfoInputs.cache
+C:\Users\CICERO-PC\Desktop\teste ewave\testeback\TesteBack.Model\obj\Debug\netstandard2.0\TesteBack.Model.AssemblyInfo.cs
+C:\Users\CICERO-PC\Desktop\teste ewave\testeback\TesteBack.Model\obj\Debug\netstandard2.0\TesteBack.Model.dll
+C:\Users\CICERO-PC\Desktop\teste ewave\testeback\TesteBack.Model\obj\Debug\netstandard2.0\TesteBack.Model.pdb
+C:\Users\CICERO-PC\Desktop\teste ewave\testeback\TesteBack.Model\obj\Debug\netstandard2.0\TesteBack.Model.csprojAssemblyReference.cache

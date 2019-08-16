@@ -1,0 +1,10 @@
+C:\Users\CICERO-PC\Desktop\teste ewave\testeback\TesteBack.Model\bin\Debug\netcoreapp2.2\TesteBack.Model.deps.json
+C:\Users\CICERO-PC\Desktop\teste ewave\testeback\TesteBack.Model\bin\Debug\netcoreapp2.2\TesteBack.Model.runtimeconfig.json
+C:\Users\CICERO-PC\Desktop\teste ewave\testeback\TesteBack.Model\bin\Debug\netcoreapp2.2\TesteBack.Model.runtimeconfig.dev.json
+C:\Users\CICERO-PC\Desktop\teste ewave\testeback\TesteBack.Model\bin\Debug\netcoreapp2.2\TesteBack.Model.dll
+C:\Users\CICERO-PC\Desktop\teste ewave\testeback\TesteBack.Model\bin\Debug\netcoreapp2.2\TesteBack.Model.pdb
+C:\Users\CICERO-PC\Desktop\teste ewave\testeback\TesteBack.Model\obj\Debug\netcoreapp2.2\TesteBack.Model.csproj.CoreCompileInputs.cache
+C:\Users\CICERO-PC\Desktop\teste ewave\testeback\TesteBack.Model\obj\Debug\netcoreapp2.2\TesteBack.Model.AssemblyInfoInputs.cache
+C:\Users\CICERO-PC\Desktop\teste ewave\testeback\TesteBack.Model\obj\Debug\netcoreapp2.2\TesteBack.Model.AssemblyInfo.cs
+C:\Users\CICERO-PC\Desktop\teste ewave\testeback\TesteBack.Model\obj\Debug\netcoreapp2.2\TesteBack.Model.dll
+C:\Users\CICERO-PC\Desktop\teste ewave\testeback\TesteBack.Model\obj\Debug\netcoreapp2.2\TesteBack.Model.pdb

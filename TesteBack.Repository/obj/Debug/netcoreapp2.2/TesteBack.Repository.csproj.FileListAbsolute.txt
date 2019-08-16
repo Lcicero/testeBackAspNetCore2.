@@ -1,0 +1,14 @@
+C:\Users\CICERO-PC\Desktop\teste ewave\testeback\TesteBack.Repository\bin\Debug\netcoreapp2.2\TesteBack.Repository.deps.json
+C:\Users\CICERO-PC\Desktop\teste ewave\testeback\TesteBack.Repository\bin\Debug\netcoreapp2.2\TesteBack.Repository.runtimeconfig.json
+C:\Users\CICERO-PC\Desktop\teste ewave\testeback\TesteBack.Repository\bin\Debug\netcoreapp2.2\TesteBack.Repository.runtimeconfig.dev.json
+C:\Users\CICERO-PC\Desktop\teste ewave\testeback\TesteBack.Repository\bin\Debug\netcoreapp2.2\TesteBack.Repository.dll
+C:\Users\CICERO-PC\Desktop\teste ewave\testeback\TesteBack.Repository\bin\Debug\netcoreapp2.2\TesteBack.Repository.pdb
+C:\Users\CICERO-PC\Desktop\teste ewave\testeback\TesteBack.Repository\bin\Debug\netcoreapp2.2\TesteBack.Model.dll
+C:\Users\CICERO-PC\Desktop\teste ewave\testeback\TesteBack.Repository\bin\Debug\netcoreapp2.2\TesteBack.Model.pdb
+C:\Users\CICERO-PC\Desktop\teste ewave\testeback\TesteBack.Repository\obj\Debug\netcoreapp2.2\TesteBack.Repository.csprojAssemblyReference.cache
+C:\Users\CICERO-PC\Desktop\teste ewave\testeback\TesteBack.Repository\obj\Debug\netcoreapp2.2\TesteBack.Repository.csproj.CoreCompileInputs.cache
+C:\Users\CICERO-PC\Desktop\teste ewave\testeback\TesteBack.Repository\obj\Debug\netcoreapp2.2\TesteBack.Repository.AssemblyInfoInputs.cache
+C:\Users\CICERO-PC\Desktop\teste ewave\testeback\TesteBack.Repository\obj\Debug\netcoreapp2.2\TesteBack.Repository.AssemblyInfo.cs
+C:\Users\CICERO-PC\Desktop\teste ewave\testeback\TesteBack.Repository\obj\Debug\netcoreapp2.2\TesteBack.Repository.csproj.CopyComplete
+C:\Users\CICERO-PC\Desktop\teste ewave\testeback\TesteBack.Repository\obj\Debug\netcoreapp2.2\TesteBack.Repository.dll
+C:\Users\CICERO-PC\Desktop\teste ewave\testeback\TesteBack.Repository\obj\Debug\netcoreapp2.2\TesteBack.Repository.pdb
