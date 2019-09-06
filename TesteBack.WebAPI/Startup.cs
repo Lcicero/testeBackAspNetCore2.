@@ -34,7 +34,7 @@ namespace TesteBack.WebAPI
 
         public IConfiguration Configuration { get; }
 
-        
+         //dsadsadsdsa
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddDbContext<TesteContext>(
