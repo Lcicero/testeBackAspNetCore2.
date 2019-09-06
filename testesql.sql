@@ -4,7 +4,7 @@
 -- OS do Servidor:               Win64
 -- HeidiSQL Versão:              10.2.0.5599
 -- --------------------------------------------------------
-sadsadsa
+sadsadsass
 
 -- Copiando estrutura do banco de dados para teste2
 CREATE DATABASE IF NOT EXISTS `teste2` /*!40100 DEFAULT CHARACTER SET utf8 */;
